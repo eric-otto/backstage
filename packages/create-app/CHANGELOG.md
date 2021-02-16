@@ -1,5 +1,53 @@
 # @backstage/create-app
 
+## 0.3.10
+
+### Patch Changes
+
+- 532bc0ec0: Upgrading to lerna@4.0.0.
+- Updated dependencies [16fb1d03a]
+- Updated dependencies [92f01d75c]
+- Updated dependencies [6c4a76c59]
+- Updated dependencies [32a950409]
+- Updated dependencies [491f3a0ec]
+- Updated dependencies [f10950bd2]
+- Updated dependencies [914c89b13]
+- Updated dependencies [fd3f2a8c0]
+- Updated dependencies [d872f662d]
+- Updated dependencies [434b4e81a]
+- Updated dependencies [fb28da212]
+- Updated dependencies [9337f509d]
+- Updated dependencies [0af242b6d]
+- Updated dependencies [d9687c524]
+- Updated dependencies [53b69236d]
+- Updated dependencies [29c8bcc53]
+- Updated dependencies [3600ac3b0]
+- Updated dependencies [07e226872]
+- Updated dependencies [b0a41c707]
+- Updated dependencies [f62e7abe5]
+- Updated dependencies [a341a8716]
+- Updated dependencies [96f378d10]
+- Updated dependencies [532bc0ec0]
+- Updated dependencies [688b73110]
+  - @backstage/backend-common@0.5.4
+  - @backstage/plugin-auth-backend@0.3.1
+  - @backstage/plugin-scaffolder@0.5.1
+  - @backstage/plugin-catalog@0.3.2
+  - @backstage/core@0.6.2
+  - @backstage/plugin-user-settings@0.2.6
+  - @backstage/plugin-scaffolder-backend@0.7.1
+  - @backstage/cli@0.6.1
+  - @backstage/plugin-api-docs@0.4.6
+  - @backstage/plugin-techdocs-backend@0.6.1
+  - @backstage/plugin-catalog-backend@0.6.2
+  - @backstage/plugin-catalog-import@0.4.1
+  - @backstage/plugin-github-actions@0.3.3
+  - @backstage/plugin-circleci@0.2.9
+  - @backstage/plugin-explore@0.2.6
+  - @backstage/plugin-lighthouse@0.2.11
+  - @backstage/plugin-search@0.3.1
+  - @backstage/plugin-techdocs@0.5.7
+
 ## 0.3.9
 
 ### Patch Changes

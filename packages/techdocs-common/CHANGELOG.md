@@ -1,5 +1,20 @@
 # @backstage/techdocs-common
 
+## 0.4.1
+
+### Patch Changes
+
+- fb28da212: Switched to using `'x-access-token'` for authenticating Git over HTTPS towards GitHub.
+- 26e143e60: After TechDocs generate step, insert build timestamp to techdocs_metadata.json
+- b0a41c707: Add etag of the prepared file tree to techdocs_metadata.json in the storage
+- Updated dependencies [16fb1d03a]
+- Updated dependencies [491f3a0ec]
+- Updated dependencies [491f3a0ec]
+- Updated dependencies [434b4e81a]
+- Updated dependencies [fb28da212]
+  - @backstage/backend-common@0.5.4
+  - @backstage/integration@0.5.0
+
 ## 0.4.0
 
 ### Minor Changes
